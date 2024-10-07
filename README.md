@@ -33,6 +33,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 </p>
 
+<!--
 ---
 
 <h1 align="center">GitHub Stats</h1>
@@ -43,3 +44,4 @@
 </div>
 
 <br>
+-->
